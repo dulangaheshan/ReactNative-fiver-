@@ -6,6 +6,7 @@ import { Container, Header, Content, Card, CardItem, Thumbnail, Text, Button, Ic
 
 export default class CardTemplate extends Component {
   render() {
+    console.log(this.props,"gyhgy")
     return (
       
         <Content>
